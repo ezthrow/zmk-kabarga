@@ -94,7 +94,7 @@
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ / ?      │
             &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH
         //╰──────────┴──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┴──────────╯
-                                | &lt 4 ESC  &lt 1 TAB  &lt 2 SPACE    &lt 3 RET  &lt 4 BSPC &kp ESC
+                                  &lt 4 ESC  &lt 1 TAB  &lt 2 SPACE    &lt 3 RET  &lt 4 BSPC &kp ESC
         //                      ╰──────────┴──────────┴──────────╯   ╰──────────┴──────────┴──────────╯
             >;
         };
