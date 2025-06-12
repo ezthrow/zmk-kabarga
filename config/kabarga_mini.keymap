@@ -211,8 +211,8 @@
         //│  ;       │  L       │  K       │  J       │  H       │   │          │          │          │          │          │
             &kp SEMI   &kp L      &kp K      &kp J      &kp H          &trans     &trans     &trans     &trans     &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│  / ?       │ . >    │ , <      │  M       │  N       │   │          │          │          │          │          │
-            &kp FLSH     &kp DOT  &kp COMMA  &kp M      &kp N          &trans     &trans     &trans     &trans     &trans
+        //│  / ?     │ . >      │ , <      │  M       │  N       │   │          │          │          │          │          │
+            &kp FSLH   &kp DOT    &kp COMMA  &kp M      &kp N          &trans     &trans     &trans     &trans     &trans
         //╰──────────┴──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┴──────────╯
                                   &trans     &trans     &trans         &trans     &trans     &trans
         //                      ╰──────────┴──────────┴──────────╯   ╰──────────┴──────────┴──────────╯
